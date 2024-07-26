@@ -21,7 +21,7 @@ In addition, I have performed extensive testing with Postman to ensure the corre
 6. Lombok
 7. H2 Database
 
-## Testing endpoints with postman:
+## Testing endpoints with Postman:
 1.  GET /books: 
 Method: GET 
 URL:  http://localhost:8080/books
